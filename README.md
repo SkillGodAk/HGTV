@@ -7,9 +7,11 @@ HGTV 提供繁體中文與簡體中文介面，支援亮色及暗色主題。你
 
 ## 下載
 
-最新正式版：[HGTV 0.6.0 ARM64](https://github.com/SkillGodAk/HGTV/releases/tag/v0.6.0)
+最新正式版：[HGTV 0.6.0](https://github.com/SkillGodAk/HGTV/releases/tag/v0.6.0)
 
-適用於 Android 8.0 以上的 ARM64 電視、電視盒及裝置。下載 APK 後，使用系統安裝器完成安裝即可。
+- 64 位元：HGTV-0.6.0-arm64-v8a.apk`n- 32 位元：HGTV-0.6.0-armeabi-v7a.apk（新增）
+
+適用於 Android 8.0 以上裝置。請依裝置支援的架構選擇 APK，下載後使用系統安裝器完成安裝即可。
 
 ## 主要功能
 
