@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/hgtv-logo.png" alt="HGTV · HONGGUO TV" width="140"></p>
 <h1 align="center">HGTV</h1>
-<p align="center"><strong>HONGGUO TV</strong> · 為電視遙控器設計的追劇 App</p>
+<p align="center"><strong>HONGGUO TV</strong> · 為電視遙設計的追劇 App</p>
 <p align="center"><a href="https://github.com/SkillGodAk/HGTV/releases/latest">下載最新版</a> · <a href="#遙控器操作">遙控器操作</a></p>
 
 HGTV 提供繁體中文與簡體中文介面，支援亮色及暗色主題。你可以瀏覽熱門與最新劇集、搜尋、收藏、查看觀看紀錄，並在電視上使用遙控器輕鬆選劇與播放。
