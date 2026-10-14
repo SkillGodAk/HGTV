@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/hgtv-logo.png" alt="HGTV · HONGGUO TV" width="140"></p>
+<p align="center"><img src="assets/hgtv-tv-banner.jpg" alt="HGTV · HONGGUO TV" width="320"></p>
 <h1 align="center">HGTV</h1>
 <p align="center"><strong>HONGGUO TV</strong> · 為電視遙設計的追劇 App</p>
 <p align="center"><a href="https://github.com/SkillGodAk/HGTV/releases/latest">下載最新版</a> · <a href="#遙控器操作">遙控器操作</a></p>
