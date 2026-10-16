@@ -5,14 +5,14 @@
 
 支援繁體中文、簡體中文與亮暗主題。用遙控器輕鬆找劇、選集與播放，收藏喜歡的作品，隨時接著看。
 
-## 下載 HGTV 0.8.0
+## 下載 HGTV 0.9.0
 
 適用於 Android 8.0 以上的電視、電視盒與 ARM 裝置。
 
 | 裝置架構 | 下載版本 |
 | --- | --- |
-| 64 位元／V8A | [HGTV-0.8.0-arm64-v8a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v0.8.0/HGTV-0.8.0-arm64-v8a.apk) |
-| 32 位元／V7A | [HGTV-0.8.0-armeabi-v7a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v0.8.0/HGTV-0.8.0-armeabi-v7a.apk) |
+| 64 位元／V8A | [HGTV-0.9.0-arm64-v8a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v0.9.0/HGTV-0.9.0-arm64-v8a.apk) |
+| 32 位元／V7A | [HGTV-0.9.0-armeabi-v7a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v0.9.0/HGTV-0.9.0-armeabi-v7a.apk) |
 
 下載適合裝置的 APK，依系統提示安裝。已安裝 HGTV 的使用者可直接覆蓋更新，保留收藏與觀看紀錄。
 
