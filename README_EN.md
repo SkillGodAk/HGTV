@@ -7,19 +7,22 @@
 
 Browse dramas, select episodes, and play with your remote. HGTV supports Traditional and Simplified Chinese, light and dark themes, favorites, and viewing history.
 
-## Download HGTV 0.9.0
+## Download HGTV 1.0.0
 
 For Android 8.0 and later on TVs, TV boxes, and compatible ARM devices.
 
 | Device architecture | Download |
 | --- | --- |
-| 64-bit / V8A | [HGTV-0.9.0-arm64-v8a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v0.9.0/HGTV-0.9.0-arm64-v8a.apk) |
-| 32-bit / V7A | [HGTV-0.9.0-armeabi-v7a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v0.9.0/HGTV-0.9.0-armeabi-v7a.apk) |
+| 64-bit / V8A | [HGTV-1.0.0-arm64-v8a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v1.0.0/HGTV-1.0.0-arm64-v8a.apk) |
+| 32-bit / V7A | [HGTV-1.0.0-armeabi-v7a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v1.0.0/HGTV-1.0.0-armeabi-v7a.apk) |
 
 Download the APK matching your device and follow the Android installation prompts. Existing HGTV installations can be updated in place, preserving favorites and viewing history.
 
 ## Main features
 
+- Related seasons listed in numerical order.
+- Playback speeds from 0.5x to 3.0x in 0.25x steps.
+- Turn connection optimization on or off in settings.
 - Browse popular and newly added live-action dramas, AI dramas, and animated/comic-style dramas; search by title.
 - Browse 24 titles per page and navigate between pages.
 - Read plot summaries, cast and director information, and browse related works by actor.

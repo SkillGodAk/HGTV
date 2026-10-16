@@ -7,22 +7,25 @@
 
 支援繁體中文、簡體中文與亮暗主題。用遙控器輕鬆找劇、選集與播放，收藏喜歡的作品，隨時接著看。
 
-## 下載 HGTV 0.9.0
+## 下載 HGTV 1.0.0
 
 適用於 Android 8.0 以上的電視、電視盒與 ARM 裝置。
 
 | 裝置架構 | 下載版本 |
 | --- | --- |
-| 64 位元／V8A | [HGTV-0.9.0-arm64-v8a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v0.9.0/HGTV-0.9.0-arm64-v8a.apk) |
-| 32 位元／V7A | [HGTV-0.9.0-armeabi-v7a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v0.9.0/HGTV-0.9.0-armeabi-v7a.apk) |
+| 64 位元／V8A | [HGTV-1.0.0-arm64-v8a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v1.0.0/HGTV-1.0.0-arm64-v8a.apk) |
+| 32 位元／V7A | [HGTV-1.0.0-armeabi-v7a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v1.0.0/HGTV-1.0.0-armeabi-v7a.apk) |
 
 下載適合裝置的 APK，依系統提示安裝。已安裝 HGTV 的使用者可直接覆蓋更新，保留收藏與觀看紀錄。
 
 ## 主要功能
 
-- 瀏覽熱播、上新、真人劇、AI 劇與漫劇，支援劇名搜尋。
+- 瀏覽熱播、上新、真人劇、AI 劇與漫劇，支援劇名搜尋，優先顯示目前分類的作品。
 - 每頁 24 部劇集，可向下瀏覽與切換上一頁、下一頁。
 - 查看劇情介紹、演員與導演資料，點選演員瀏覽相關作品。
+- 「相關季數」依季數排序。
+- 支援 0.5x～3.0x 播放倍速，每 0.25x 一檔。
+- 可在設定開啟或關閉「線路優化」。
 - 收藏喜歡的劇集，透過觀看紀錄繼續播放。
 - 原畫優先，也可選擇海外 720p 優先模式。
 - 邊緩存邊播放、預先準備下一集，切集後自動清理已播集數緩存。
