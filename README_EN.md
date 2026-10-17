@@ -7,16 +7,23 @@
 
 Browse dramas, select episodes, and play with your remote. HGTV supports Traditional and Simplified Chinese, light and dark themes, favorites, and viewing history.
 
-## Download HGTV 1.0.0
+## Download HGTV 1.0.1
 
 For Android 8.0 and later on TVs, TV boxes, and compatible ARM devices.
 
 | Device architecture | Download |
 | --- | --- |
-| 64-bit / V8A | [HGTV-1.0.0-arm64-v8a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v1.0.0/HGTV-1.0.0-arm64-v8a.apk) |
-| 32-bit / V7A | [HGTV-1.0.0-armeabi-v7a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v1.0.0/HGTV-1.0.0-armeabi-v7a.apk) |
+| 64-bit / V8A | [HGTV-1.0.1-arm64-v8a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v1.0.1/HGTV-1.0.1-arm64-v8a.apk) |
+| 32-bit / V7A | [HGTV-1.0.1-armeabi-v7a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v1.0.1/HGTV-1.0.1-armeabi-v7a.apk) |
 
 Download the APK matching your device and follow the Android installation prompts. Existing HGTV installations can be updated in place, preserving favorites and viewing history.
+
+## What's new in 1.0.1
+
+- Fix viewing history not updating the latest episode and playback position after resuming.
+- Add Favorite All and Save Search to related-season search, allowing search results to be saved separately for each series.
+- Add a Clear All Favorites button.
+- Group favorites by series and sort each series by season number.
 
 ## Main features
 

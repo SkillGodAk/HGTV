@@ -7,16 +7,23 @@
 
 支援繁體中文、簡體中文與亮暗主題。用遙控器輕鬆找劇、選集與播放，收藏喜歡的作品，隨時接著看。
 
-## 下載 HGTV 1.0.0
+## 下載 HGTV 1.0.1
 
 適用於 Android 8.0 以上的電視、電視盒與 ARM 裝置。
 
 | 裝置架構 | 下載版本 |
 | --- | --- |
-| 64 位元／V8A | [HGTV-1.0.0-arm64-v8a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v1.0.0/HGTV-1.0.0-arm64-v8a.apk) |
-| 32 位元／V7A | [HGTV-1.0.0-armeabi-v7a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v1.0.0/HGTV-1.0.0-armeabi-v7a.apk) |
+| 64 位元／V8A | [HGTV-1.0.1-arm64-v8a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v1.0.1/HGTV-1.0.1-arm64-v8a.apk) |
+| 32 位元／V7A | [HGTV-1.0.1-armeabi-v7a.apk](https://github.com/SkillGodAk/HGTV/releases/download/v1.0.1/HGTV-1.0.1-armeabi-v7a.apk) |
 
 下載適合裝置的 APK，依系統提示安裝。已安裝 HGTV 的使用者可直接覆蓋更新，保留收藏與觀看紀錄。
+
+## 1.0.1 更新內容
+
+- 修正從觀看紀錄續播後，集數與播放進度未更新的問題。
+- 相關季數搜尋欄位新增「一鍵收藏」與「保留搜尋」，不同劇集可分別保存搜尋紀錄。
+- 收藏頁新增「一鍵清除收藏」。
+- 收藏依劇集系列分組，並按季數先後排列。
 
 ## 主要功能
 
